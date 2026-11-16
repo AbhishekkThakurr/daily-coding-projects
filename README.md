@@ -12,3 +12,5 @@ One day, several small programs — in the languages a BTech CSE student actuall
 | 2 | [Student Marks Analysis](day-002-sql-student-marks/) | SQL | CREATE TABLE, AVG with GROUP BY, ORDER BY, WHERE |
 | 3 | [Fibonacci Series](day-003-java-fibonacci/) | Java | for loop, long, command-line args |
 | 3 | [Profile Card](day-003-html-css-profile-card/) | HTML/CSS | Flexbox, box model, :hover |
+| 4 | [Bubble Sort](day-004-c-bubble-sort/) | C | Nested loops, swapping, early-exit flag |
+| 4 | [Word Frequency Counter](day-004-python-word-frequency/) | Python | Counter dictionary, string splitting, sorting results |
