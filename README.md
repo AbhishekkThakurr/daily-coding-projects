@@ -14,3 +14,5 @@ One day, several small programs — in the languages a BTech CSE student actuall
 | 3 | [Profile Card](day-003-html-css-profile-card/) | HTML/CSS | Flexbox, box model, :hover |
 | 4 | [Bubble Sort](day-004-c-bubble-sort/) | C | Nested loops, swapping, early-exit flag |
 | 4 | [Word Frequency Counter](day-004-python-word-frequency/) | Python | Counter dictionary, string splitting, sorting results |
+| 5 | [Simple To-Do List](day-005-javascript-todo-list/) | JavaScript | Arrays of objects, find/filter, process.argv |
+| 5 | [Library Books & Borrowing](day-005-sql-library-books/) | SQL | INNER JOIN, LEFT JOIN, GROUP BY with HAVING, subquery |
