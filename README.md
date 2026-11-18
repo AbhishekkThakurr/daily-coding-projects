@@ -16,3 +16,5 @@ One day, several small programs — in the languages a BTech CSE student actuall
 | 4 | [Word Frequency Counter](day-004-python-word-frequency/) | Python | Counter dictionary, string splitting, sorting results |
 | 5 | [Simple To-Do List](day-005-javascript-todo-list/) | JavaScript | Arrays of objects, find/filter, process.argv |
 | 5 | [Library Books & Borrowing](day-005-sql-library-books/) | SQL | INNER JOIN, LEFT JOIN, GROUP BY with HAVING, subquery |
+| 6 | [Armstrong Number Checker](day-006-java-armstrong-number/) | Java | while loop, digit extraction, Math.pow, methods |
+| 6 | [Simple Calculator UI](day-006-html-css-calculator/) | HTML/CSS | CSS Grid, grid-column span, :hover/:active, Flexbox |
