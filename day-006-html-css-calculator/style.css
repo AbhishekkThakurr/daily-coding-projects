@@ -1,0 +1,100 @@
+/* Simple Calculator UI — a static front-end layout.
+   The buttons are styled and positioned with CSS Grid;
+   there is no JavaScript yet, so the keys do not calculate.
+   (Adding the logic with JS would be a natural next step.) */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #eef2f7;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.calculator {
+  width: 300px;
+  background: #222831;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+/* The result display at the top. */
+.display {
+  background: #393e46;
+  color: #ffffff;
+  font-size: 2.2rem;
+  text-align: right;
+  padding: 18px 14px;
+  border-radius: 10px;
+  margin-bottom: 16px;
+  overflow: hidden;
+}
+
+/* 4-column grid for the keypad. */
+.keys {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+.key {
+  border: none;
+  border-radius: 10px;
+  padding: 18px 0;
+  font-size: 1.2rem;
+  background: #eeeeee;
+  color: #222831;
+  cursor: pointer;
+  transition: transform 0.08s ease, background 0.15s ease;
+}
+
+/* A small press effect when a key is clicked. */
+.key:hover {
+  background: #d6d6d6;
+}
+
+.key:active {
+  transform: scale(0.94);
+}
+
+/* Operators stand out in orange. */
+.operator {
+  background: #f96d00;
+  color: #ffffff;
+}
+
+.operator:hover {
+  background: #e06200;
+}
+
+/* The clear key is red, the equals key is green. */
+.clear {
+  background: #e63946;
+  color: #ffffff;
+}
+
+.clear:hover {
+  background: #c92f3d;
+}
+
+.equals {
+  background: #2a9d8f;
+  color: #ffffff;
+}
+
+.equals:hover {
+  background: #24897e;
+}
+
+/* The 0 key spans two columns, like on a real calculator. */
+.zero {
+  grid-column: span 2;
+}
