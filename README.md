@@ -20,3 +20,5 @@ One day, several small programs — in the languages a BTech CSE student actuall
 | 6 | [Simple Calculator UI](day-006-html-css-calculator/) | HTML/CSS | CSS Grid, grid-column span, :hover/:active, Flexbox |
 | 7 | [Reverse a String](day-007-c-reverse-string/) | C | Two-pointer swap, char arrays, fgets, strcspn |
 | 7 | [Leap Year Checker](day-007-python-leap-year/) | Python | Functions, modulo operator, Gregorian leap-year rule |
+| 8 | [Simple Interest Calculator](day-008-javascript-simple-interest/) | JavaScript | Functions, process.argv, parseFloat, input validation |
+| 8 | [Employee Salary Analysis](day-008-sql-employee-salary/) | SQL | JOIN, AVG with GROUP BY, subqueries, CASE |
