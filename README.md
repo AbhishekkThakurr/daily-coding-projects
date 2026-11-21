@@ -22,3 +22,5 @@ One day, several small programs — in the languages a BTech CSE student actuall
 | 7 | [Leap Year Checker](day-007-python-leap-year/) | Python | Functions, modulo operator, Gregorian leap-year rule |
 | 8 | [Simple Interest Calculator](day-008-javascript-simple-interest/) | JavaScript | Functions, process.argv, parseFloat, input validation |
 | 8 | [Employee Salary Analysis](day-008-sql-employee-salary/) | SQL | JOIN, AVG with GROUP BY, subqueries, CASE |
+| 9 | [GCD Calculator](day-009-java-gcd-calculator/) | Java | while loop, Euclidean algorithm, Math.abs, Scanner |
+| 9 | [Login Form](day-009-html-css-login-form/) | HTML/CSS | Forms, Flexbox, linear-gradient, :focus/:hover |
