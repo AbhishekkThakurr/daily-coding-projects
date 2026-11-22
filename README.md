@@ -24,3 +24,5 @@ One day, several small programs — in the languages a BTech CSE student actuall
 | 8 | [Employee Salary Analysis](day-008-sql-employee-salary/) | SQL | JOIN, AVG with GROUP BY, subqueries, CASE |
 | 9 | [GCD Calculator](day-009-java-gcd-calculator/) | Java | while loop, Euclidean algorithm, Math.abs, Scanner |
 | 9 | [Login Form](day-009-html-css-login-form/) | HTML/CSS | Forms, Flexbox, linear-gradient, :focus/:hover |
+| 10 | [Sum of Digits](day-010-c-sum-of-digits/) | C | while loop, digit extraction, llabs, scanf validation |
+| 10 | [Temperature Converter](day-010-python-temperature-converter/) | Python | Functions, sys.argv, f-strings, input validation |
