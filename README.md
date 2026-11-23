@@ -26,3 +26,5 @@ One day, several small programs — in the languages a BTech CSE student actuall
 | 9 | [Login Form](day-009-html-css-login-form/) | HTML/CSS | Forms, Flexbox, linear-gradient, :focus/:hover |
 | 10 | [Sum of Digits](day-010-c-sum-of-digits/) | C | while loop, digit extraction, llabs, scanf validation |
 | 10 | [Temperature Converter](day-010-python-temperature-converter/) | Python | Functions, sys.argv, f-strings, input validation |
+| 11 | [Password Strength Checker](day-011-javascript-password-strength/) | JavaScript | Regex, filter, process.argv, scoring |
+| 11 | [Online Store Orders Analysis](day-011-sql-online-store-orders/) | SQL | 3-table JOINs, LEFT JOIN, GROUP BY + HAVING, CASE |
