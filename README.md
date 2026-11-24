@@ -28,3 +28,5 @@ One day, several small programs — in the languages a BTech CSE student actuall
 | 10 | [Temperature Converter](day-010-python-temperature-converter/) | Python | Functions, sys.argv, f-strings, input validation |
 | 11 | [Password Strength Checker](day-011-javascript-password-strength/) | JavaScript | Regex, filter, process.argv, scoring |
 | 11 | [Online Store Orders Analysis](day-011-sql-online-store-orders/) | SQL | 3-table JOINs, LEFT JOIN, GROUP BY + HAVING, CASE |
+| 12 | [LCM Calculator](day-012-java-lcm-calculator/) | Java | Euclidean GCD, LCM formula, long, command-line args, Scanner fallback |
+| 12 | [Pricing Table](day-012-html-css-pricing-table/) | HTML/CSS | Flexbox, :hover lift, absolute badge, media query |
