@@ -30,3 +30,5 @@ One day, several small programs — in the languages a BTech CSE student actuall
 | 11 | [Online Store Orders Analysis](day-011-sql-online-store-orders/) | SQL | 3-table JOINs, LEFT JOIN, GROUP BY + HAVING, CASE |
 | 12 | [LCM Calculator](day-012-java-lcm-calculator/) | Java | Euclidean GCD, LCM formula, long, command-line args, Scanner fallback |
 | 12 | [Pricing Table](day-012-html-css-pricing-table/) | HTML/CSS | Flexbox, :hover lift, absolute badge, media query |
+| 13 | [Vowel and Consonant Counter](day-013-c-vowel-consonant-counter/) | C | fgets, ctype.h (isalpha/tolower), switch, strcspn |
+| 13 | [Number Guessing Game](day-013-python-number-guessing-game/) | Python | random.randint, while loop, try/except, argparse --seed |
