@@ -32,3 +32,5 @@ One day, several small programs — in the languages a BTech CSE student actuall
 | 12 | [Pricing Table](day-012-html-css-pricing-table/) | HTML/CSS | Flexbox, :hover lift, absolute badge, media query |
 | 13 | [Vowel and Consonant Counter](day-013-c-vowel-consonant-counter/) | C | fgets, ctype.h (isalpha/tolower), switch, strcspn |
 | 13 | [Number Guessing Game](day-013-python-number-guessing-game/) | Python | random.randint, while loop, try/except, argparse --seed |
+| 14 | [Binary Search](day-014-javascript-binary-search/) | JavaScript | Iterative + recursive binary search, Math.floor, process.argv |
+| 14 | [Bank Accounts & Transactions Analysis](day-014-sql-bank-accounts/) | SQL | JOIN, LEFT JOIN, GROUP BY + HAVING, CASE, WHERE before aggregation |
