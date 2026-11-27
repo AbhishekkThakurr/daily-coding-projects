@@ -34,3 +34,5 @@ One day, several small programs — in the languages a BTech CSE student actuall
 | 13 | [Number Guessing Game](day-013-python-number-guessing-game/) | Python | random.randint, while loop, try/except, argparse --seed |
 | 14 | [Binary Search](day-014-javascript-binary-search/) | JavaScript | Iterative + recursive binary search, Math.floor, process.argv |
 | 14 | [Bank Accounts & Transactions Analysis](day-014-sql-bank-accounts/) | SQL | JOIN, LEFT JOIN, GROUP BY + HAVING, CASE, WHERE before aggregation |
+| 15 | [Decimal to Binary Converter](day-015-java-decimal-to-binary/) | Java | Repeated division by 2, StringBuilder reverse, Integer.toBinaryString check |
+| 15 | [Responsive Photo Gallery](day-015-html-css-photo-gallery/) | HTML/CSS | CSS Grid auto-fit/minmax, aspect-ratio, gradients, :hover scale, media query |
