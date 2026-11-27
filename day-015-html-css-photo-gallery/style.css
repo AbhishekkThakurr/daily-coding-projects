@@ -1,0 +1,76 @@
+/* Photo Gallery — pure HTML/CSS, no JavaScript. */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f4f6f8;
+  color: #222;
+}
+
+.gallery-page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 32px 16px;
+  text-align: center;
+}
+
+.subtitle {
+  color: #666;
+  margin-bottom: 24px;
+}
+
+/* CSS Grid: as many columns as fit, each at least 220px wide. */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+}
+
+.tile {
+  margin: 0;
+  aspect-ratio: 4 / 3;
+  border-radius: 12px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.tile figcaption {
+  width: 100%;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.45);
+  color: #fff;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+/* Hover: tile lifts and zooms slightly. */
+.tile:hover {
+  transform: scale(1.04);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.25);
+}
+
+/* Gradient "photos" — one per place, no image files needed. */
+.mountain { background: linear-gradient(160deg, #7fb2d9, #2f5d8a); }
+.beach    { background: linear-gradient(160deg, #ffe29a, #f6a45c); }
+.forest   { background: linear-gradient(160deg, #9ed69a, #2e7d46); }
+.city     { background: linear-gradient(160deg, #c9c9d6, #4a4a6a); }
+.desert   { background: linear-gradient(160deg, #ffd9a0, #d98a4a); }
+.snow     { background: linear-gradient(160deg, #ffffff, #bcd8f0); }
+
+/* Small screens: single column, tighter padding. */
+@media (max-width: 520px) {
+  .gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery-page {
+    padding: 20px 12px;
+  }
+}
