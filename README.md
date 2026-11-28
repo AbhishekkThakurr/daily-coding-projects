@@ -36,3 +36,5 @@ One day, several small programs — in the languages a BTech CSE student actuall
 | 14 | [Bank Accounts & Transactions Analysis](day-014-sql-bank-accounts/) | SQL | JOIN, LEFT JOIN, GROUP BY + HAVING, CASE, WHERE before aggregation |
 | 15 | [Decimal to Binary Converter](day-015-java-decimal-to-binary/) | Java | Repeated division by 2, StringBuilder reverse, Integer.toBinaryString check |
 | 15 | [Responsive Photo Gallery](day-015-html-css-photo-gallery/) | HTML/CSS | CSS Grid auto-fit/minmax, aspect-ratio, gradients, :hover scale, media query |
+| 16 | [Selection Sort](day-016-c-selection-sort/) | C | Arrays, nested loops, minimum-index search, swapping, argc/argv |
+| 16 | [Caesar Cipher](day-016-python-caesar-cipher/) | Python | Functions, ord/chr, modulo wrap-around, argparse |
